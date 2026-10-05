@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-vsliveshare.vsliveshare",
+    "formulahendry.auto-rename-tag",
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "naumovs.color-highlight",
+    "viral-team.carbon-candy",
+    "antfu.icons-carbon",
+    "PKief.material-icon-theme"
+  ]
+}
